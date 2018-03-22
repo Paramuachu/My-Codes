@@ -14,31 +14,31 @@ int main()
     {
         case 1: 
             printf("Monday\t");
-            printf("Working day");
+            printf("No");
             break;
         case 2: 
             printf("Tuesday\t");
-            printf("Working day");
+            printf("No");
             break;
         case 3: 
             printf("Wednesday\t");
-            printf("Working day");
+            printf("No");
             break;
         case 4: 
             printf("Thursday\t");
-            printf("Working day");
+            printf("No");
             break;
         case 5: 
             printf("Friday\t");
-            printf("Working day");
+            printf("No");
             break;
         case 6: 
             printf("Saturday\t");
-            printf("Working day");
+            printf("Yes");
             break;
         case 7: 
             printf("Sunday\t");
-            printf("Holiday");
+            printf("Yes");
             break;
         default: 
             printf("invalid");
